@@ -31,6 +31,7 @@ Think of Complect as a trusted referee for Web3 growth campaigns:
 <p align="center">
   <img width="1723" height="1112" alt="Screenshot 2026-05-29 at 05 30 05" src="https://github.com/user-attachments/assets/3bd726b7-7474-49b2-a8a5-57e728794705" />
 </p>
+
 2. **Publishers** (wallets, dApps, explorers, media sites, and content creators) promote the campaign. They embed a simple widget on their platform and earn up to **25% revenue share** every time a verified user completes a task through their channel. No extra work needed, they just monetize their existing audience.
 
 3. **Users & Explorers** discover and complete meaningful tasks. They see high-quality opportunities in the personalized discovery feed, complete real actions (swaps, staking, reaching levels in games, minting NFTs, creating content, ranked matches, etc.) across Avalanche and other EVM chains, and build a portable reputation passport that follows.
